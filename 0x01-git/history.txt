@@ -1,0 +1,77 @@
+    1  cd /root
+    2  git branch
+    3  git branches
+    4  git ---help
+    5  man git
+    6  git-branch
+    7  branch
+    8  git branch
+    9  ls
+   10  cd alx-pre_course/
+   11  git branch
+   12  git merge update_script
+   13  git push origin master
+   14  git pull update_script
+   15  git push origin master
+   16  git pull update_script
+   17  ls
+   18  git diff
+   19  cd 0x01-git/
+   20  cat bash/alx 
+   21  vi bash/alx 
+   22  git add .
+   23  git commit -m "resolving conflicts"
+   24  git push
+   25  git pull update_script
+   26  git checkout update_script
+   27  git push origin master
+   28  git checkout master
+   29  git pull update_script
+   30  git config --global core.excludesfile ~/.gitignore_global
+   31  emacs .gitignore_global
+   32  vi .gitignore
+   33  ls
+   34  ls la
+   35  ls a
+   36  ls 
+   37  ls -la
+   38  vi .gitignore 
+   39  git config --global core.excludesfile ~/.gitignore
+   40  vi .gitignore 
+   41  ls -la
+   42  vi gitignore 
+   43  git add .
+   44  git commit -m "~"
+   45  git push
+   46  cd
+   47  ls
+   48  ls -la
+   49  history > /root/alx-pre_course/0x01-git/history
+   50  cat /root/alx-pre_course/0x01-git/history
+   51  ls -la
+   52  export HISTSIZE=1000000
+   53  cho HISTSIZE
+   54  echo HISTSIZE
+   55  echo $HISTSIZE
+   56  vi my_script.sh
+   57  mv my_script.sh /root/alx-pre_course/0x01-git/
+   58  cd /root/alx-pre_course/0x01-git/
+   59  ls
+   60  chmod 777 my_script.sh 
+   61  ./my_script.sh 
+   62  crontab -e
+   63  apt-get crony
+   64  apt-get install crony
+   65  apt-get install cronyd
+   66  apt-get install crontab
+   67  crontab -l
+   68  apt-get install cron
+   69  crontab -l
+   70  crontab -e
+   71  cat /etc/crontab
+   72  crontab -e
+   73  crontab -l
+   74  vi my_script.sh 
+   75  ./my_script.sh 
+   76  history
+   77  history >> history.txt 
