@@ -75,3 +75,43 @@
    75  ./my_script.sh 
    76  history
    77  history >> history.txt 
+    1  ls
+    2  cd /etc/ssh
+    3  ls
+    4  vi ssh_config
+    5  cd
+    6  ls
+    7  cd /
+    8  vi hellow
+    9  gcc -E hellow -o hellow 
+   10  mv hellow hellow.c
+   11  gcc -E hellow.c -o hellow 
+   12  ls
+   13  cat hellow
+   14  ls
+   15  rm hellow
+   16  gcc -E hellow.c -o hellow.i
+   17  cat hellow.i 
+   18  gcc -S hellow.i 
+   19  ls
+   20  cat hellow.s 
+   21  gcc -c hellow.s 
+   22  ls
+   23  cat hellow.o 
+   24  gcc -o hellow hellow.o 
+   25  ls
+   26  ./hellow 
+   27  vi hellow.c
+   28  gcc hellow.c -o hellow
+   29  ./hellow 
+   30  crontab -l
+   31  /root/alx-pre_course/0x01-git/my_script.sh
+   32  cd /root/alx-pre_course/0x01-git/
+   33  ./my_script.sh 
+   34  cat my_script.sh 
+   35  man git push
+   36  vi my_script.sh 
+   37  ./my_script.sh 
+   38  history
+   39  vi my_script.sh 
+   40  history >> /root/alx-pre_course/0x01-git/history.txt
