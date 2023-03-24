@@ -1,0 +1,165 @@
+    1  cd /etc/
+    2  ls | grep -E '*ssh'
+    3  ls
+    4  cd ssh/
+    5  ls
+    6  vi sshd_config
+    7  vi ssh_config.d/
+    8  reload sshd
+    9  man -k reload service
+   10  systemctl restart sshd
+   11  /etc/rc.d/sshd restart
+   12  /etc/sshd restart
+   13  which sshd
+   14  /usr/sbin/sshd restart
+   15  /usr/sbin/sshd 
+   16  service sshd restart
+   17  service restart sshd
+   18  service ssh restart
+   19  yum apt install net-tool
+   20  apt install net-tool
+   21  apt install net-tools
+   22  ifconfig
+   23  date
+   24  timedatectl 
+   25  ntp
+   26  date "24/03/2023 15:03:14"
+   27  date "24-03-2023 15:03:14"
+   28  man date
+   29  date -s "24-03-2023 15:03:14"
+   30  date -s "24 mar 2023 15:03:14"
+   31  cd /root/
+   32  ls
+   33  cd alx-pre_course/
+   34  ls
+   35  cd 0x01-git/
+   36  ls
+   37  vi my_script.sh 
+   38  crontab -e
+   39  date
+   40  crontab -e
+   41  date
+   42  cd /var/log
+   43  ls
+   44  cd journal/
+   45  ls
+   46  date
+   47  journalctl
+   48  journalctl -u cron
+   49  journalctl -u crony
+   50  journalctl -u crond
+   51  date
+   52  cd /root/alx-pre_course/0x01-git/
+   53  ./my_script.sh 
+   54  vi my_script.sh 
+   55  ./my_script.sh 
+   56  vi my_script.sh 
+   57  ls
+   58  rm '*h'
+   59  rm 'h*'
+   60  rm *h
+   61  ls
+   62  git pull
+   63  ls
+   64  git fetch
+   65  ls
+   66  git fetch my_script.sh
+   67  git pull my_script.sh
+   68  git pull
+   69  vi my_script.sh
+   70  chmod 777 my_script.sh 
+   71  ls
+   72  rm *h
+   73  vi my_script.sh
+   74  chmod 777 my_script.sh 
+   75  rm h*
+   76  ls
+   77  ./my_script.sh 
+   78  ls
+   79  cat history1.txt 
+   80  history 
+   81  history >> history1.txt 
+    1  cd /etc/
+    2  ls | grep -E '*ssh'
+    3  ls
+    4  cd ssh/
+    5  ls
+    6  vi sshd_config
+    7  vi ssh_config.d/
+    8  reload sshd
+    9  man -k reload service
+   10  systemctl restart sshd
+   11  /etc/rc.d/sshd restart
+   12  /etc/sshd restart
+   13  which sshd
+   14  /usr/sbin/sshd restart
+   15  /usr/sbin/sshd 
+   16  service sshd restart
+   17  service restart sshd
+   18  service ssh restart
+   19  yum apt install net-tool
+   20  apt install net-tool
+   21  apt install net-tools
+   22  ifconfig
+   23  date
+   24  timedatectl 
+   25  ntp
+   26  date "24/03/2023 15:03:14"
+   27  date "24-03-2023 15:03:14"
+   28  man date
+   29  date -s "24-03-2023 15:03:14"
+   30  date -s "24 mar 2023 15:03:14"
+   31  cd /root/
+   32  ls
+   33  cd alx-pre_course/
+   34  ls
+   35  cd 0x01-git/
+   36  ls
+   37  vi my_script.sh 
+   38  crontab -e
+   39  date
+   40  crontab -e
+   41  date
+   42  cd /var/log
+   43  ls
+   44  cd journal/
+   45  ls
+   46  date
+   47  journalctl
+   48  journalctl -u cron
+   49  journalctl -u crony
+   50  journalctl -u crond
+   51  date
+   52  cd /root/alx-pre_course/0x01-git/
+   53  ./my_script.sh 
+   54  vi my_script.sh 
+   55  ./my_script.sh 
+   56  vi my_script.sh 
+   57  ls
+   58  rm '*h'
+   59  rm 'h*'
+   60  rm *h
+   61  ls
+   62  git pull
+   63  ls
+   64  git fetch
+   65  ls
+   66  git fetch my_script.sh
+   67  git pull my_script.sh
+   68  git pull
+   69  vi my_script.sh
+   70  chmod 777 my_script.sh 
+   71  ls
+   72  rm *h
+   73  vi my_script.sh
+   74  chmod 777 my_script.sh 
+   75  rm h*
+   76  ls
+   77  ./my_script.sh 
+   78  ls
+   79  cat history1.txt 
+   80  history 
+   81  history >> history1.txt 
+   82  cat history1.txt 
+   83  date
+   84  history >> history1.txt 
