@@ -1,4 +1,4 @@
-history -w >> /root/.bash_history
+history -w >> history
 git add .
 date > /root/alx-pre_course/0x01-git/date.txt
 file=$(cat /root/alx-pre_course/0x01-git/date.txt)
