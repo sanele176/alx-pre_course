@@ -91,3 +91,12 @@ cat history
 ./gitpush 
 cat history
 ./gitpush 
+rm history
+ln /root/.history history
+./gitpush 
+vi gitpush 
+pwd
+cd
+ls -la
+touch .bash_history
+history -w
