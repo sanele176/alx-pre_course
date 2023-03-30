@@ -1,0 +1,19 @@
+    1  cd /root/
+    2  ls
+    3  cd alx-pre_course/
+    4  ls
+    5  cd 0x01-git/
+    6  ls
+    7  vi my_script.sh 
+    8  ./my_script.sh 
+    9  vi my_script.sh 
+   10  pwd
+   11  ls
+   12  vi my_script.sh 
+   13  ./my_script.sh 
+   14  vi my_script.sh 
+   15  ./my_script.sh 
+   16  vi my_script.sh 
+   17  ./my_script.sh 
+   18  vi my_script.sh 
+   19  history >> /root/alx-pre_course/0x01-git/history2.txt
